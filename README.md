@@ -1,4 +1,4 @@
-# Scan Answer
+# Scan words
 
 ## bootstrap
 
